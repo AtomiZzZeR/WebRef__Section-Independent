@@ -1,0 +1,14 @@
+.info-block {
+	display: flex;
+	align-items: center;
+	max-width: 400px;
+	margin: 8px auto 0px;
+	border-bottom: 4px solid #613129;
+}
+.info-image {
+	margin: 0px 51px 0px 12px;
+}
+.info-message {
+	display: inline-block;
+	font-size: 16px;
+}

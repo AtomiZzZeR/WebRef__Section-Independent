@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	font-size: 16px;
+	line-height: 1.1;
+}
+
+.frame-text {
+	display: inline-block;
+	width: 472px;
+	margin: 18px 0px 0px 0px;
+	padding: 20.2px 0px 20.2px 20px;
+	text-align: left;
+	color: #fff;
+	background-color: #86328C;
+	outline: 2px solid #fff;
+	outline-offset: -4px;
+}

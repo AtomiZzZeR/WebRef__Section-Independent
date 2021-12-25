@@ -1,0 +1,52 @@
+body {
+	background-color: #f4f5f1;
+}
+
+.box-form {
+	max-width: 400px;
+	margin: 8px auto;
+	padding: 50px 0px 0px 0px;
+	text-align: center;
+	background-color: #fff;
+	box-shadow: 0 0 5px 1px #777;
+}
+
+.msg {
+	font: 600 2em/1.1 "Times new roman", serif;
+}
+
+.login {
+	display: flex;
+	flex-direction: column;
+	width: 298px;
+	margin: 19px 50px 39.4px;
+	text-align: right;
+	/* outline: 2px solid red; */
+}
+
+input[type="text"] {
+	width: 100%;
+	margin: 0px auto 19px;
+	padding: 6px 3px;
+	line-height: 1;
+	font-family: Arial, sans-serif;
+	border: 1px solid #ddd;
+}
+
+.text-checkbox {
+	padding: 0px 0px 0px 5px;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.btn {
+	width: 300px;
+	margin: 19px auto 39.5px	;
+	padding: 10px 0px;
+	line-height: 1;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	background-color: #bc8e5c;
+}
+
+

@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.form {
+	display: block;
+	max-width: 434px;
+	margin: 8px auto;
+	padding: 18px 0 0 0;
+	background-color: #e3efef;
+}
+
+.form__title {
+	margin: 0 0 18px 17px;
+	font-size: 1.5rem;
+}
+
+.form__box-inputs {
+	background-color: #eef8fa;
+	border-top: 1px solid #d0dcdc;
+	border-bottom: 1px solid #d0dcdc;
+}

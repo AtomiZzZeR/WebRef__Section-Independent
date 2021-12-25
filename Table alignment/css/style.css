@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	width: 80%;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid #000;
+}
+
+.hardness {
+	text-align: center;
+}

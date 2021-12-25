@@ -1,0 +1,15 @@
+body {
+	background-color: #497775;
+	font-size: 16px;
+	line-height: 1.15;
+}
+
+.block {
+	width: 300px;
+	height: 200px;
+	margin: 8px auto 0px;
+	padding: 21px 20px 0px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0px 0px 15px 3px #395c5b;
+}

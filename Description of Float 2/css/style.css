@@ -1,0 +1,30 @@
+
+
+body {
+	color: #888;
+}
+
+.page {
+	display: inline-block;
+}
+
+.box-list {
+	float: right;
+	color: #aa8845;
+	list-style: none;
+}
+
+ul li {
+	display: inline-block;
+	padding: 10px 11.5px;
+	background-color: #ebe8df;
+	line-height: 13px;
+	border: 1px solid #dad6cf;
+	transition: 0.4s;
+}
+
+li:hover {
+	color: #fff;
+	background-color: #a44823;
+	border: 1px solid #7b3418;
+}

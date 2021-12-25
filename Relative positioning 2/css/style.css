@@ -1,0 +1,21 @@
+.block-1 {
+	height: 200px;
+	background-color: #a1bd57;
+}
+
+.block-2 {
+	position: relative;
+	height: 100%;
+	background-color: #f7f6f2;
+}
+
+.relative-rectangle {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 400px;
+	height: 250px;
+	margin: -97px 0px 0px -200px;
+	background-color: #fff;
+	border: 3px solid #DAD6CF;
+}

@@ -1,0 +1,30 @@
+body {
+	font-family: Oswald, sans-serif;
+	line-height: 2;
+}
+
+span {
+	background-color: #f9e3b2;
+	padding: 3px 10px;
+}
+
+.box__fw-1 {
+	font-weight: 300;
+}
+
+.box__fw-2 {
+	font-weight: 400;
+}
+
+.box__fw-3 {
+	font-weight: 500;
+}
+
+.box__fw-4 {
+	font-weight: 600;
+}
+
+.box__fw-5 {
+	font-weight: 700;
+}
+
